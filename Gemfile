@@ -11,3 +11,6 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+
+gem "kramdown-parser-gfm", "~> 1.1"
+gem "erb"
