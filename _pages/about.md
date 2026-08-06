@@ -40,6 +40,18 @@ A recurring question behind my work is:
 > How can we engineer distributed systems that learn collectively while
 > remaining adaptive, privacy-aware, and efficient?
 
+
+## 📰 Latest news
+
+- **IEEE DCOSS-IoT 2026 — Main Track:** Our paper [*Flexible Distributed Particle Filtering for the Internet of Things via Aggregate Computing*](https://arxiv.org/abs/2606.18483) has been accepted.
+
+- **AI4AS 2026:** Our paper [*Discovering Collaboration from Novelty: Random Network Distillation for Clustered Federated Learning*](https://arxiv.org/abs/2606.30499) has been accepted at the **4th International Workshop on Artificial Intelligence for Autonomous Computing Systems**, co-located with **IEEE ACSOS 2026**.
+
+- **IEEE ACSOS 2026 — Main Track:** Two of our papers have been accepted:
+  - [*C2FL: Clustered Continual Federated Learning under Spatial and Temporal Drift*](https://arxiv.org/abs/2606.18003);
+  - *Multi-Target Tracking via Field-Based Distributed Particle Filtering*.
+
+
 ## Beyond research
 
 I enjoy turning research ideas into **working software, reproducible
