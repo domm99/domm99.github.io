@@ -58,6 +58,17 @@ Academic service and conference organization
   * Organization of the conference social activities and participant experience
   * Cesena, Italy, September 7–11, 2026
 
+Public engagement and science outreach
+======
+
+* **Lecturer**, [UniJunior](https://www.unijunior.it/), 2026
+  * *Collective Intelligence: From Nature to Robots*
+  * Interactive outreach lesson introducing young learners to collective intelligence and swarm robotics through examples inspired by social animals and coordinated robot teams
+
+* **Public engagement contributor**, [European Researchers' Night 2024](https://www.unibo.it/it/eventi/evento/torna-la-notte-europea-dei-ricercatori), 2024
+  * Contributed to public engagement activities bringing university research to a general audience
+  * Biblioteca Malatestiana, Cesena, Italy, September 27, 2024
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
