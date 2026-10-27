@@ -43,6 +43,8 @@ A recurring question behind my work is:
 
 ## 📰 Latest news
 
+- **Pervasive and Mobile Computing:** Our paper [*SParSeFuL: Self-organizing sparse federated learning over spatially non-IID data*](https://www.sciencedirect.com/science/article/pii/S1574119226001410) has been published.
+
 - **IEEE DCOSS-IoT 2026 — Main Track:** Our paper [*Flexible Distributed Particle Filtering for the Internet of Things via Aggregate Computing*](https://arxiv.org/abs/2606.18483) has been accepted.
 
 - **AI4AS 2026:** Our paper [*Discovering Collaboration from Novelty: Random Network Distillation for Clustered Federated Learning*](https://arxiv.org/abs/2606.30499) has been accepted at the **4th International Workshop on Artificial Intelligence for Autonomous Computing Systems**, co-located with **IEEE ACSOS 2026**.
