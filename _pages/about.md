@@ -43,6 +43,8 @@ A recurring question behind my work is:
 
 ## 📰 Latest news
 
+- **IEEE ACSOS 2026:** 🎉 Our paper *Multi-Target Tracking via Field-Based Distributed Particle Filtering* won the Best Companion Artifact Award. 
+
 - **Pervasive and Mobile Computing:** Our paper [*SParSeFuL: Self-organizing sparse federated learning over spatially non-IID data*](https://www.sciencedirect.com/science/article/pii/S1574119226001410) has been published.
 
 - **IEEE DCOSS-IoT 2026 — Main Track:** Our paper [*Flexible Distributed Particle Filtering for the Internet of Things via Aggregate Computing*](https://arxiv.org/abs/2606.18483) has been accepted.
