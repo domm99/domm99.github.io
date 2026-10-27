@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* **Ph.D. in Computer Science and Engineering**, University of Bologna, 2023–ongoing
+* **Ph.D. in Computer Science and Engineering**, University of Bologna, 2023-ongoing
   * Cesena, Italy
   * Supervisor: Prof. Mirko Viroli
   * Co-supervisor: Prof. Danilo Pianini
@@ -181,4 +181,4 @@ Languages
 ======
 
 * Italian: Native
-* English: C2 Proficient
+* English: C1 Proficient
