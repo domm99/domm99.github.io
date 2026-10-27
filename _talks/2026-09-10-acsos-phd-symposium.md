@@ -1,5 +1,5 @@
 ---
-title: "Engineering Cooperative Intelligence in Collective Systems"
+title: "Self-Organizing Federated Learning"
 collection: talks
 type: "Conference Talk"
 permalink: /talks/2026-09-10-acsos-phd-symposium
